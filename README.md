@@ -6,6 +6,7 @@ Setup
 Clone the repo: 
 
 git clone https://github.com/subshegde/Local-Storage-Hive-Flutter.git
+
 cd flutter-hive-demo
 
 Install dependencies:
