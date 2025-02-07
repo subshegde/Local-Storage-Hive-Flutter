@@ -3,9 +3,9 @@
 A simple Flutter app demonstrating how to use Hive for local storage. You can write, read, and delete data from Hive.
 Setup
 
-Clone the repo:
+Clone the repo: 
 
-git clone 
+git clone https://github.com/subshegde/Local-Storage-Hive-Flutter.git
 cd flutter-hive-demo
 
 Install dependencies:
